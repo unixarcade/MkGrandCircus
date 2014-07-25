@@ -1,0 +1,6 @@
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\bin\Debug\Declare array.exe.config
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\bin\Debug\Declare array.exe
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\bin\Debug\Declare array.pdb
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\obj\Debug\Declare array.csprojResolveAssemblyReference.cache
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\obj\Debug\Declare array.exe
+c:\users\for you\documents\visual studio 2013\Projects\Declare array\Declare array\obj\Debug\Declare array.pdb

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MediaManagerModelStoreContainer" CdmEntityContainer="MediaManagerEntities">
+    <EntitySetMapping Name="CDs">
+      <EntityTypeMapping TypeName="MediaManagerModel.CD">
+        <MappingFragment StoreEntitySet="CD">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Artist" ColumnName="Artist" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DVDs">
+      <EntityTypeMapping TypeName="MediaManagerModel.DVD">
+        <MappingFragment StoreEntitySet="DVD">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="RunningTime" ColumnName="RunningTime" />
+          <ScalarProperty Name="IsSpecialEdition" ColumnName="IsSpecialEdition" />
+          <ScalarProperty Name="Synopsis" ColumnName="Synopsis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tracks">
+      <EntityTypeMapping TypeName="MediaManagerModel.Track">
+        <MappingFragment StoreEntitySet="Track">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="Artist" ColumnName="Artist" />
+          <ScalarProperty Name="CDId" ColumnName="CDId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

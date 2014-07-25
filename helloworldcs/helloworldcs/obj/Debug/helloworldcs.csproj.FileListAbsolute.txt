@@ -1,0 +1,6 @@
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\bin\Debug\helloworldcs.exe.config
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\bin\Debug\helloworldcs.exe
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\bin\Debug\helloworldcs.pdb
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\obj\Debug\helloworldcs.csprojResolveAssemblyReference.cache
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\obj\Debug\helloworldcs.exe
+c:\users\for you\documents\visual studio 2013\Projects\helloworldcs\helloworldcs\obj\Debug\helloworldcs.pdb
