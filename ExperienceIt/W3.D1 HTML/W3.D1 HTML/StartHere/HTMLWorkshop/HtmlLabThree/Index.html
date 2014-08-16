@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Scrape Page</title>
+    <script>
+        function scrapePage() {
+            //Put your code to scrape your document here
+            var inputOne = document.getElementById('testOne');
+            var inputOneText = inputOne.value;
+            var testTwo = document.getElementById('testTwo');
+            var valueTestTwo = testTwo.innerHTML;
+            var fName = document.getElementById('First Name');
+            var valueFName = fName.innerHTMl;
+            var lName = document.getElementById('Last Name');
+            var valueLName = lname.innerHTML
+            var mDate = document.getElementById('Birth Date');
+            var valueMDate = mDate.innerText;
+            var compNum = document.getElementById('Number of Computers');
+            var valuecompNum = compNum.innerHTML
+            var gender = document.getElementById('Gender');
+            var valueGender = gender.nodeValue;
+            var color = document.getElementById('Favorite Color');
+            var valueColor = color.getElementById
+            var dev = document.getElementById('dev');
+            var valueDev = dev.nodeValue
+            var notes = document.getElementById('Notes');
+            var valueNotes = notes.innerHTML
+
+
+            // This is how you show an alert box:
+            alert(inputOne);
+            alert(valueTestTwo);
+            alert(fName);
+            alert(lName);
+            alert(mDate);
+            alert(compNum);
+            alert(gender);
+            alert(color);
+            alert(dev);
+            alert(notes);
+            // or
+            // var x = "show this text"
+            // alert(x);
+        }
+    </script>
+</head>
+<body>
+    <div title="Form elements">
+        <form>
+
+            <div name="Names">
+                <p>
+                    First name: &nbsp;
+                    <input type="text" name="First name" value="First Name" maxlength="30" />
+                    </br>
+                </p>
+                <p>
+
+                    Last name: &nbsp;
+
+
+                    <input type="text" name="Last name" maxlength="30" />
+
+                    </br>
+                </p>
+            </div>
+
+            <p>
+                Birthdate : &nbsp;
+                <input type="date" name="Birthdate" />
+                </br>
+            </p>
+            <p>
+
+                Number of computers: &nbsp;
+                <input type="number" name="Number of Computers" />
+                <br />
+            </p>
+
+            <p>
+                Gender : &nbsp;
+                <input type="radio" name="Gender" value="Male" /> Male
+                <input type="radio" name="Gender" value="Female" /> Female <br />
+            </p>
+
+            <p>
+                Favorite Color: &nbsp;
+                <input type="color" name="Favorite Color" />
+
+            </p>
+
+            <p>
+                Are you a Developer &nbsp;
+                <input type="radio" name="Dev" value="Yes" /> Yes
+                <input type="radio" name="Dev" value="No" /> No <br />
+                <br />
+            </p>
+
+            <p>
+                Notes &nbsp;
+                <input type="text" name="Notes">
+            </p>
+
+
+
+
+        </form>
+
+
+
+    </div>
+    <input type="text" value="this is a test" id="testOne" />
+    <div id="testTwo">Hi There!</div>
+    <button onclick="scrapePage();">Go!</button>
+</body>
+</html>

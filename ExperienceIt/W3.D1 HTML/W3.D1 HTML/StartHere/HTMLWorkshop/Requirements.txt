@@ -1,0 +1,16 @@
+Requirements:
+	First Name							String
+	Last Name							String
+	Birthdate							Date
+	Number of Computers In Household	Number
+	Gender								Male/Female
+	Favorite Color						Red, Blue, Green, Yellow or Purple
+	Is a Developer						Boolean
+	Notes								Long string
+
+Validation:
+	First Name							Must be shorter than 30 characters
+	Last Name							Must be shorter than 30 characters
+	Birthdate							Must be a date
+	Number of Computers In Household	Must be a number of zero or greater
+

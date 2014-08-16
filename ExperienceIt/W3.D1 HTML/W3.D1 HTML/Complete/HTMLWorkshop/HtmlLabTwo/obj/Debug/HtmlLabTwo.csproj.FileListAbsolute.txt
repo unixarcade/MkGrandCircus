@@ -1,0 +1,5 @@
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll.config
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.pdb
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.pdb

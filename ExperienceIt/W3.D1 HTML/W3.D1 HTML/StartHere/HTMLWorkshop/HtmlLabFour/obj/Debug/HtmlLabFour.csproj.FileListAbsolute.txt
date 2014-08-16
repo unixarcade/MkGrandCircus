@@ -1,0 +1,36 @@
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.dll.config
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.pdb
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Helpers.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Mvc.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Razor.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Deployment.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Razor.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Razor.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Deployment.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Razor.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Helpers.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\bin\System.Web.Mvc.xml
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.csprojResolveAssemblyReference.cache
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.pdb
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.dll.config
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\HtmlLabFour.pdb
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Helpers.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Mvc.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Razor.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Deployment.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Razor.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Razor.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Deployment.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Webpages.Razor.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Helpers.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\bin\System.Web.Mvc.xml
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.csprojResolveAssemblyReference.cache
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabFour\obj\Debug\HtmlLabFour.pdb

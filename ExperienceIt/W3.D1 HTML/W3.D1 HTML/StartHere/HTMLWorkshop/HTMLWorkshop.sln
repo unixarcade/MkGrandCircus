@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop1", "Workshop1", "{E561F416-C667-40F6-8830-0530A21869F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlLabOne", "HtmlLabOne\HtmlLabOne.csproj", "{34E1B010-3622-46DF-9841-6266678B27CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop2", "Workshop2", "{24663C5D-33A0-4144-B43F-70E70F3E5F49}"
+	ProjectSection(SolutionItems) = preProject
+		Requirements.txt = Requirements.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlLabTwo", "HtmlLabTwo\HtmlLabTwo.csproj", "{72490705-9B8E-45F6-B6D7-A3EA0AD38976}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Goals", "Goals", "{02D12902-7FF3-449E-B49A-DE1E7C0EAD8A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\..\Temp\AssignmentFive.jpg = ..\..\..\..\..\..\..\Temp\AssignmentFive.jpg
+		..\..\..\..\..\..\..\Temp\AssignmentFour.jpg = ..\..\..\..\..\..\..\Temp\AssignmentFour.jpg
+		..\..\..\..\..\..\..\Temp\AssignmentOne.jpg = ..\..\..\..\..\..\..\Temp\AssignmentOne.jpg
+		..\..\..\..\..\..\..\Temp\AssignmentThree.jpg = ..\..\..\..\..\..\..\Temp\AssignmentThree.jpg
+		..\..\..\..\..\..\..\Temp\AssignmentTwo.jpg = ..\..\..\..\..\..\..\Temp\AssignmentTwo.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop3", "Workshop3", "{2DA1DD3E-FD6F-4678-8392-A550FF0C4A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlLabThree", "HtmlLabThree\HtmlLabThree.csproj", "{26C8DC44-01CA-4D13-A351-96C9471112B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop4", "Workshop4", "{4AF34298-0295-4C9C-9014-C4DDDA7660D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlLabFour", "HtmlLabFour\HtmlLabFour.csproj", "{CF583391-97AA-439F-B5E7-AE90E3513C28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E1B010-3622-46DF-9841-6266678B27CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E1B010-3622-46DF-9841-6266678B27CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E1B010-3622-46DF-9841-6266678B27CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E1B010-3622-46DF-9841-6266678B27CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72490705-9B8E-45F6-B6D7-A3EA0AD38976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72490705-9B8E-45F6-B6D7-A3EA0AD38976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72490705-9B8E-45F6-B6D7-A3EA0AD38976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72490705-9B8E-45F6-B6D7-A3EA0AD38976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C8DC44-01CA-4D13-A351-96C9471112B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C8DC44-01CA-4D13-A351-96C9471112B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C8DC44-01CA-4D13-A351-96C9471112B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C8DC44-01CA-4D13-A351-96C9471112B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF583391-97AA-439F-B5E7-AE90E3513C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF583391-97AA-439F-B5E7-AE90E3513C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF583391-97AA-439F-B5E7-AE90E3513C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF583391-97AA-439F-B5E7-AE90E3513C28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34E1B010-3622-46DF-9841-6266678B27CA} = {E561F416-C667-40F6-8830-0530A21869F6}
+		{72490705-9B8E-45F6-B6D7-A3EA0AD38976} = {24663C5D-33A0-4144-B43F-70E70F3E5F49}
+		{02D12902-7FF3-449E-B49A-DE1E7C0EAD8A} = {E561F416-C667-40F6-8830-0530A21869F6}
+		{26C8DC44-01CA-4D13-A351-96C9471112B6} = {2DA1DD3E-FD6F-4678-8392-A550FF0C4A19}
+		{CF583391-97AA-439F-B5E7-AE90E3513C28} = {4AF34298-0295-4C9C-9014-C4DDDA7660D5}
+	EndGlobalSection
+EndGlobal

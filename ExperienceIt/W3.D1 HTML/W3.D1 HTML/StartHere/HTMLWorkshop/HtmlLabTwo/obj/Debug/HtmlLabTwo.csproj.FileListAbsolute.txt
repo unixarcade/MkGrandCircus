@@ -1,0 +1,11 @@
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll.config
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.pdb
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.dll
+C:\VsProjects\GrandCircusASPNET\SPAModule\Labs\W3.D1 HTML\Complete\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.pdb
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll.config
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\bin\HtmlLabTwo.pdb
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.csprojResolveAssemblyReference.cache
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.dll
+C:\Users\For You\Desktop\ExperienceIt\W3.D1 HTML\W3.D1 HTML\StartHere\HTMLWorkshop\HtmlLabTwo\obj\Debug\HtmlLabTwo.pdb

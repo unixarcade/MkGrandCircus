@@ -1,0 +1,9 @@
+Fields:                             Name:
+First Name                          FirstName
+Last Name                           LastName
+Birthday                            BirthDate
+Number of Computers in Household    Computers
+Gender                              Gender
+Color                               Color
+Are you a Developer                 IsDeveloper
+Notes                               Notes   
